@@ -1,0 +1,16 @@
+D:\NOTLAR\PROJELER\banka_proje\banka_proje\bin\Debug\banka_proje.exe.config
+D:\NOTLAR\PROJELER\banka_proje\banka_proje\bin\Debug\banka.mdf
+D:\NOTLAR\PROJELER\banka_proje\banka_proje\bin\Debug\banka_log.ldf
+D:\NOTLAR\PROJELER\banka_proje\banka_proje\bin\Debug\banka_proje.exe
+D:\NOTLAR\PROJELER\banka_proje\banka_proje\bin\Debug\banka_proje.pdb
+D:\NOTLAR\PROJELER\banka_proje\banka_proje\obj\Debug\banka_proje.Form1.resources
+D:\NOTLAR\PROJELER\banka_proje\banka_proje\obj\Debug\banka_proje.Properties.Resources.resources
+D:\NOTLAR\PROJELER\banka_proje\banka_proje\obj\Debug\banka_proje.csproj.GenerateResource.Cache
+D:\NOTLAR\PROJELER\banka_proje\banka_proje\obj\Debug\banka_proje.exe
+D:\NOTLAR\PROJELER\banka_proje\banka_proje\obj\Debug\banka_proje.pdb
+D:\NOTLAR\PROJELER\banka_proje\banka_proje\obj\Debug\banka_proje.Form2.resources
+D:\NOTLAR\PROJELER\banka_proje\banka_proje\obj\Debug\banka_proje.Form3.resources
+D:\NOTLAR\PROJELER\banka_proje\banka_proje\obj\Debug\banka_proje.Form4.resources
+D:\NOTLAR\PROJELER\banka_proje\banka_proje\obj\Debug\banka_proje.Form5.resources
+D:\NOTLAR\PROJELER\banka_proje\banka_proje\obj\Debug\banka_proje.Form6.resources
+D:\NOTLAR\PROJELER\banka_proje\banka_proje\obj\Debug\banka_proje.csprojResolveAssemblyReference.cache

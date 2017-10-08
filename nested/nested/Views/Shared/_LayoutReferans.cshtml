@@ -1,0 +1,16 @@
+﻿
+@{
+    ViewBag.Title = "_LayoutReferans";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<div style="background-color:aqua; height:300px" >
+    @Html.ActionLink("Ada konutları","AdaKonut","Home")
+    @Html.ActionLink("Güzel konutları", "GuzelKonut", "Home")
+    @Html.ActionLink("Merkez konutları", "MerkezKonut", "Home")
+</div>
+<div style="background-color:green; height:300px" >
+    @RenderBody()
+    </div>
+
+   
+

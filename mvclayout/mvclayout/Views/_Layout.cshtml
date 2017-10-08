@@ -1,0 +1,23 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>_Layout</title>
+</head>
+<body>
+    <div > 
+        <div >
+            <button  type="submit">@Html.ActionLink("Anasayfa","Index","Home")</button>
+            <button type="submit">@Html.ActionLink("Hakkımızda", "Hakkimizda", "Home")</button>
+            <button type="submit">@Html.ActionLink("İletişim", "Iletisim", "Home")</button>
+        </div>
+        @RenderBody()
+    </div>
+</body>
+</html>

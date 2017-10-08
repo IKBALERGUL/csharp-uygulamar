@@ -1,0 +1,33 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>_Layout</title>
+</head>
+<body>
+    <div style="background-color:beige; height:50px; width:300px;">
+        @Html.ActionLink("Anasayfa","Index","Home")
+        @Html.ActionLink("Hakkımızda", "Hakkimizda", "Home")
+        @Html.ActionLink("İletişim", "Iletisim", "Home")
+    </div>
+
+    <div style="background-color:chocolate; height:50px; width:300px;">
+        @RenderBody()
+    </div>
+
+    <div style="background-color:hotpink; height:50px; width:300px;">
+        @Html.Partial("Dersler")
+    </div>
+
+    <div style="background-color:Highlight; height:50px; width:300px;">
+        @Html.Partial("Dersler")
+    </div>
+
+</body>
+</html>

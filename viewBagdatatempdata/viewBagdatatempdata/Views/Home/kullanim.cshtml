@@ -1,0 +1,26 @@
+﻿
+@{
+    ViewBag.Title = "kullanim";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@ViewBag.BagKullanim
+<hr/>
+@ViewData["DataKullanim"]
+<hr />
+@TempData["TempKullanim"]
+
+<hr />
+<ul>
+    @foreach (var not in ViewBag.Notlar)
+    {
+        <li>@not</li>
+    }
+</ul>
+<hr/>
+<ul>
+    @foreach (var Gun in  (List<string>)ViewData["Gunler"])
+    {
+        <li>@Gun</li>
+    }
+</ul>

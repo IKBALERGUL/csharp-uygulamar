@@ -1,0 +1,45 @@
+c:\users\ikbal\documents\visual studio 2010\Projects\hastane_kayit_programi\hastane_kayit_programi\bin\Debug\hastane_kayit_programi.exe
+c:\users\ikbal\documents\visual studio 2010\Projects\hastane_kayit_programi\hastane_kayit_programi\bin\Debug\hastane_kayit_programi.pdb
+c:\users\ikbal\documents\visual studio 2010\Projects\hastane_kayit_programi\hastane_kayit_programi\obj\x86\Debug\hastane_kayit_programi.Form1.resources
+c:\users\ikbal\documents\visual studio 2010\Projects\hastane_kayit_programi\hastane_kayit_programi\obj\x86\Debug\hastane_kayit_programi.Properties.Resources.resources
+c:\users\ikbal\documents\visual studio 2010\Projects\hastane_kayit_programi\hastane_kayit_programi\obj\x86\Debug\hastane_kayit_programi.csproj.GenerateResource.Cache
+c:\users\ikbal\documents\visual studio 2010\Projects\hastane_kayit_programi\hastane_kayit_programi\obj\x86\Debug\hastane_kayit_programi.exe
+c:\users\ikbal\documents\visual studio 2010\Projects\hastane_kayit_programi\hastane_kayit_programi\obj\x86\Debug\hastane_kayit_programi.pdb
+C:\Users\ikbal\documents\visual studio 2010\Projects\hastane_kayit_programi\hastane_kayit_programi\obj\x86\Debug\hastane_kayit_programi.Form2.resources
+C:\Users\ikbal\documents\visual studio 2010\Projects\hastane_kayit_programi\hastane_kayit_programi\obj\x86\Debug\hastane_kayit_programi.Form3.resources
+C:\Users\ikbal\documents\visual studio 2010\Projects\hastane_kayit_programi\hastane_kayit_programi\bin\Debug\hastane_kayit_programi.exe.config
+C:\Users\ikbal\documents\visual studio 2010\Projects\hastane_kayit_programi\hastane_kayit_programi\obj\x86\Debug\hastane_kayit_programi.Form4.resources
+C:\Users\ikbal\Documents\Visual Studio 2010\Projects\hastane_kayit_programi\hastane_kayit_programi\bin\Debug\kayit.mdf
+C:\Users\ikbal\Documents\Visual Studio 2010\Projects\hastane_kayit_programi\hastane_kayit_programi\bin\Debug\kayit_log.ldf
+C:\Users\ikbal\Documents\Visual Studio 2010\Projects\hastane_kayit_programi\hastane_kayit_programi\obj\x86\Debug\hastane_kayit_programi.csprojResolveAssemblyReference.cache
+D:\hastane_kayit_programi\hastane_kayit_programi\bin\Debug\hastane_kayit_programi.exe.config
+D:\hastane_kayit_programi\hastane_kayit_programi\obj\x86\Debug\hastane_kayit_programi.exe
+D:\hastane_kayit_programi\hastane_kayit_programi\obj\x86\Debug\hastane_kayit_programi.pdb
+D:\NOTLAR\PROJELER\hastane_kayit_programi\hastane_kayit_programi\bin\Debug\hastane_kayit_programi.exe.config
+D:\NOTLAR\PROJELER\hastane_kayit_programi\hastane_kayit_programi\obj\x86\Debug\hastane_kayit_programi.exe
+D:\NOTLAR\PROJELER\hastane_kayit_programi\hastane_kayit_programi\obj\x86\Debug\hastane_kayit_programi.pdb
+D:\NOTLAR\PROJELER\hastane_kayit_programi\hastane_kayit_programi\bin\Debug\hastane_kayit_programi.exe
+D:\NOTLAR\PROJELER\hastane_kayit_programi\hastane_kayit_programi\bin\Debug\hastane_kayit_programi.pdb
+D:\NOTLAR\PROJELER\hastane_kayit_programi\hastane_kayit_programi\obj\x86\Debug\hastane_kayit_programi.csprojResolveAssemblyReference.cache
+D:\NOTLAR\PROJELER\hastane_kayit_programi\hastane_kayit_programi\obj\x86\Debug\hastane_kayit_programi.Form1.resources
+D:\NOTLAR\PROJELER\hastane_kayit_programi\hastane_kayit_programi\obj\x86\Debug\hastane_kayit_programi.Form2.resources
+D:\NOTLAR\PROJELER\hastane_kayit_programi\hastane_kayit_programi\obj\x86\Debug\hastane_kayit_programi.Form3.resources
+D:\NOTLAR\PROJELER\hastane_kayit_programi\hastane_kayit_programi\obj\x86\Debug\hastane_kayit_programi.Form4.resources
+D:\NOTLAR\PROJELER\hastane_kayit_programi\hastane_kayit_programi\obj\x86\Debug\hastane_kayit_programi.Properties.Resources.resources
+D:\NOTLAR\PROJELER\hastane_kayit_programi\hastane_kayit_programi\obj\x86\Debug\hastane_kayit_programi.csproj.GenerateResource.Cache
+D:\NOTLAR\PROJELER\hastane_kayit_programi\hastane_kayit_programi\bin\Debug\hastane.mdf
+D:\NOTLAR\PROJELER\hastane_kayit_programi\hastane_kayit_programi\bin\Debug\hastane_log.ldf
+D:\NOTLAR\CSARP-UYGULAMALARIM\hastane_kayit_programi\hastane_kayit_programi\bin\Debug\hastane_kayit_programi.exe.config
+D:\NOTLAR\CSARP-UYGULAMALARIM\hastane_kayit_programi\hastane_kayit_programi\obj\x86\Debug\hastane_kayit_programi.exe
+D:\NOTLAR\CSARP-UYGULAMALARIM\hastane_kayit_programi\hastane_kayit_programi\obj\x86\Debug\hastane_kayit_programi.pdb
+D:\NOTLAR\CSARP-UYGULAMALARIM\hastane_kayit_programi\hastane_kayit_programi\bin\Debug\hastane.mdf
+D:\NOTLAR\CSARP-UYGULAMALARIM\hastane_kayit_programi\hastane_kayit_programi\bin\Debug\hastane_log.ldf
+D:\NOTLAR\CSARP-UYGULAMALARIM\hastane_kayit_programi\hastane_kayit_programi\bin\Debug\hastane_kayit_programi.exe
+D:\NOTLAR\CSARP-UYGULAMALARIM\hastane_kayit_programi\hastane_kayit_programi\bin\Debug\hastane_kayit_programi.pdb
+D:\NOTLAR\CSARP-UYGULAMALARIM\hastane_kayit_programi\hastane_kayit_programi\obj\x86\Debug\hastane_kayit_programi.csprojResolveAssemblyReference.cache
+D:\NOTLAR\CSARP-UYGULAMALARIM\hastane_kayit_programi\hastane_kayit_programi\obj\x86\Debug\hastane_kayit_programi.Form1.resources
+D:\NOTLAR\CSARP-UYGULAMALARIM\hastane_kayit_programi\hastane_kayit_programi\obj\x86\Debug\hastane_kayit_programi.Form2.resources
+D:\NOTLAR\CSARP-UYGULAMALARIM\hastane_kayit_programi\hastane_kayit_programi\obj\x86\Debug\hastane_kayit_programi.Form3.resources
+D:\NOTLAR\CSARP-UYGULAMALARIM\hastane_kayit_programi\hastane_kayit_programi\obj\x86\Debug\hastane_kayit_programi.Form4.resources
+D:\NOTLAR\CSARP-UYGULAMALARIM\hastane_kayit_programi\hastane_kayit_programi\obj\x86\Debug\hastane_kayit_programi.Properties.Resources.resources
+D:\NOTLAR\CSARP-UYGULAMALARIM\hastane_kayit_programi\hastane_kayit_programi\obj\x86\Debug\hastane_kayit_programi.csproj.GenerateResource.Cache

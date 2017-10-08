@@ -1,0 +1,22 @@
+c:\users\pc\documents\visual studio 2015\Projects\point_asansor\point_asansor\bin\Debug\point_asansor.exe.config
+c:\users\pc\documents\visual studio 2015\Projects\point_asansor\point_asansor\bin\Debug\point_asansor.exe
+c:\users\pc\documents\visual studio 2015\Projects\point_asansor\point_asansor\bin\Debug\point_asansor.pdb
+c:\users\pc\documents\visual studio 2015\Projects\point_asansor\point_asansor\obj\Debug\point_asansor.csprojResolveAssemblyReference.cache
+c:\users\pc\documents\visual studio 2015\Projects\point_asansor\point_asansor\obj\Debug\point_asansor.Form1.resources
+c:\users\pc\documents\visual studio 2015\Projects\point_asansor\point_asansor\obj\Debug\point_asansor.Properties.Resources.resources
+c:\users\pc\documents\visual studio 2015\Projects\point_asansor\point_asansor\obj\Debug\point_asansor.csproj.GenerateResource.Cache
+c:\users\pc\documents\visual studio 2015\Projects\point_asansor\point_asansor\obj\Debug\point_asansor.exe
+c:\users\pc\documents\visual studio 2015\Projects\point_asansor\point_asansor\obj\Debug\point_asansor.pdb
+c:\users\pc\documents\visual studio 2015\Projects\point_asansor\point_asansor\obj\Debug\point_asansor.Form2.resources
+c:\users\pc\documents\visual studio 2015\Projects\point_asansor\point_asansor\obj\Debug\point_asansor.Form3.resources
+D:\NOTLAR\PROJELER\point_asansor\point_asansor\bin\Debug\point_asansor.exe.config
+D:\NOTLAR\PROJELER\point_asansor\point_asansor\obj\Debug\point_asansor.exe
+D:\NOTLAR\PROJELER\point_asansor\point_asansor\obj\Debug\point_asansor.pdb
+D:\NOTLAR\PROJELER\point_asansor\point_asansor\bin\Debug\point_asansor.exe
+D:\NOTLAR\PROJELER\point_asansor\point_asansor\bin\Debug\point_asansor.pdb
+D:\NOTLAR\PROJELER\point_asansor\point_asansor\obj\Debug\point_asansor.csprojResolveAssemblyReference.cache
+D:\NOTLAR\PROJELER\point_asansor\point_asansor\obj\Debug\point_asansor.Form1.resources
+D:\NOTLAR\PROJELER\point_asansor\point_asansor\obj\Debug\point_asansor.Form2.resources
+D:\NOTLAR\PROJELER\point_asansor\point_asansor\obj\Debug\point_asansor.Form3.resources
+D:\NOTLAR\PROJELER\point_asansor\point_asansor\obj\Debug\point_asansor.Properties.Resources.resources
+D:\NOTLAR\PROJELER\point_asansor\point_asansor\obj\Debug\point_asansor.csproj.GenerateResource.Cache
